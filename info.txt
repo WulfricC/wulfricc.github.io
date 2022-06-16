@@ -1,0 +1,6 @@
+## add
+git submodule add <url to github repo>
+
+## update
+git pull --recurse-submodules
+git submodule update --remote --recursive
